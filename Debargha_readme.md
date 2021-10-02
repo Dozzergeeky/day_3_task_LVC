@@ -14,7 +14,7 @@ Location:- _Garia,Kolkata_
 ## Coding
 |Sl.No.|Name|Level|
 |---|---|---|
-|1|Python|Intermediate|
+|1|Python|Intermediate
 |2|C|Basic|
 
 ## Creative
@@ -27,4 +27,4 @@ Location:- _Garia,Kolkata_
 ## Languages known (in order of proficiency)
 1. Bengali
 2. English
-3. Hindi
+3. Hi
