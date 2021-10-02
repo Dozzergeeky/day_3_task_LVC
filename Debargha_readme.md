@@ -1,23 +1,23 @@
 # Introduction
 Hello everyone, I'm Debargha Bhattacharjee from NSEC in the first year of CSE Branch
 
-## Details 
+# Details 
 Name:-_Debargha Bhattacharjee_
 City:-_Kolkata_
 
-## College Details
+# College Details
 College name:- _Netaji Subhash Engineering College_
 Location:- _Garia,Kolkata_
 
-## Skills
+# Skills
 
-### Coding
+## Coding
 |Sl.No.|Name|Level|
 |---|---|---|
 |1|Python|Intermediate|
 |2|C|Basic|
 
-### Creative
+## Creative
 |Sl.No.|Name|Software|
 |---|---|---|
 |1|PhotoEditing|Adobe LightRoom|
